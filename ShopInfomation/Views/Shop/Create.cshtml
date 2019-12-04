@@ -1,0 +1,107 @@
+﻿@using ShopInfomation.Models
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+  
+}
+<h2>Create Employee</h2>
+<form id="shop" method="post" style="padding-top:12px">
+    <div class="form-group">
+        <label> Shop Name</label>
+        <input type="text" class="form-control" name="ShopName"/>
+    </div>
+    <div class="form-group">
+        <label> Contact</label>
+        <input type="text" class="form-control" name="Contact"/>
+    </div>
+   
+    <div class="form-group">
+        <label> Level</label>
+        <select class="form-control" name="LevelId">
+            <option value="0">Select Level</option>
+
+            @foreach (var item in ViewBag.AllLevel)
+            {
+                <option value="@item.LevelId">@item.LevelNo</option>
+            }
+
+        </select>
+    </div>
+    <div class="form-group">
+        <label> Block</label>
+
+        <select class="form-control" name="BlockId">
+            <option value="0">Select Block</option>
+            @foreach (var item in ViewBag.AllBlock)
+            {
+                <option value="@item.BlockId">@item.BlockName</option>
+            }
+
+        </select>
+    </div>
+   
+
+    <input type="submit"  value="Save" class="btn btn-success" />
+
+</form>
+
+@section scripts{
+
+
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script>
+     
+        $(document).ready(function () {
+       
+
+            $("#shop").validate({
+                rules: {
+                    ShopName: {
+                        required: true
+
+                    },
+                    Contact: {
+                        required: true,
+                          
+
+                    },
+                    LevelId: {
+                       min:1
+                       
+                    },
+                    BlockId: {
+                        min: 1
+
+                    }
+
+                },
+
+
+                messages: {
+                    ShopName: {
+                        required: "Shop Name is Required"
+
+                    },
+                    Contact: {
+                        required: "Contact is required",
+                        minlength: " minimum length 11",
+                        maxlength: " maximum length is 11"
+                    },
+
+                    LevelId: {
+                        min: "Level  Is Required"
+                    },
+
+                    BlockId: {
+                        min: "Block is required"
+
+                    }
+                }
+            });
+
+        })
+
+    </script>
+}

@@ -1,0 +1,33 @@
+﻿@model List<ShopInfomation.Models.Shop>
+@{
+    ViewBag.Title = "GetAllShopInfo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>GetAllShopInfo</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Shop Name</td>
+            <td>Contact</td>
+            <td>Label</td>
+            <td>Block</td>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+       
+            <tr>
+                <td>@item.ShopName</td>
+                <td>@item.Contact</td>
+                <td>@item.LevelId</td>
+                <td>@item.BlockId</td>
+            </tr>
+       
+    }
+    </tbody>
+
+</table>
+

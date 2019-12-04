@@ -1,0 +1,152 @@
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\ShopInfomation.dll.config
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\ShopInfomation.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\ShopInfomation.pdb
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\csc.exe.config
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\csc.rsp
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\csi.exe
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\csi.exe.config
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\csi.rsp
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.AppContext.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Console.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\vbc.exe.config
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\vbc.rsp
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\Antlr3.Runtime.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\Newtonsoft.Json.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Optimization.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\WebGrease.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Optimization.xml
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\Newtonsoft.Json.xml
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\Antlr3.Runtime.pdb
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\obj\Debug\ShopInfomation.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\obj\Debug\ShopInfomation.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\obj\Debug\ShopInfomation.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\obj\Debug\ShopInfomation.dll
+C:\Users\Web App Develop .Net\Desktop\ShopInfomation\ShopInfomation\obj\Debug\ShopInfomation.pdb
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\ShopInfomation.dll.config
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\ShopInfomation.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\ShopInfomation.pdb
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\csc.exe
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\csc.exe.config
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\csc.rsp
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\csi.exe
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\csi.exe.config
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\csi.rsp
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.AppContext.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Console.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.IO.Compression.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.Claims.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.ValueTuple.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\vbc.exe
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\vbc.exe.config
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\vbc.rsp
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\VBCSCompiler.exe
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\Antlr3.Runtime.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\Newtonsoft.Json.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Helpers.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Mvc.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Optimization.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Razor.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.WebPages.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.WebPages.Razor.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\WebGrease.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Helpers.xml
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Mvc.xml
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Optimization.xml
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.Razor.xml
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.WebPages.xml
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\System.Web.WebPages.Razor.xml
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\Newtonsoft.Json.xml
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\Antlr3.Runtime.pdb
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\obj\Debug\ShopInfomation.csprojAssemblyReference.cache
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\obj\Debug\ShopInfomation.csproj.CoreCompileInputs.cache
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\obj\Debug\ShopInfomation.csproj.CopyComplete
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\obj\Debug\ShopInfomation.dll
+C:\Users\monirul islam\Desktop\ShopInfomation\ShopInfomation\obj\Debug\ShopInfomation.pdb

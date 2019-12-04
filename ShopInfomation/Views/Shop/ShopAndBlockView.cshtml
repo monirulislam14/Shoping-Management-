@@ -1,0 +1,77 @@
+﻿@model List<ShopInfomation.Models.ShopViewModel>
+@using ShopInfomation.Models
+@{
+    ViewBag.Title = "GetAllShopInfo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+
+
+<form method="Post" style="padding-top:15px">
+
+    <h4 style="text-align:center"> <a href="/Shop/Create">Add New</a></h4>
+
+    <label style="padding-left:7px"> Shop Name</label>
+    <input type="search" name="SearchShopName" placeholder="Search" />
+    <input type="submit" value="Show" /><br /><br />
+
+    <lebe style="padding-left:7px"><b>Total Count</b></lebe>
+    <input type="text" value="@Model.Count" />
+
+</form>
+<table class="table" style="width:800px">
+
+
+
+    <thead style="color:darkcyan">
+        <tr>
+            <td><b>Shop Name</b></td>
+            <td><b>Contact</b></td>
+            <td><b>Label</b></td>
+            <td><b>Block</b></td>
+        </tr>
+    </thead>
+
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>@item.ShopName</td>
+                <td>@item.Contact</td>
+                <td>@item.LevelNo</td>
+                <td>@item.BlockName</td>
+                <td>
+
+                    @Html.ActionLink("Edit", "EditShop", new { shopId = item.ShopId }) &nbsp|
+
+                    @Html.ActionLink("Delete", "DeleteShop", new { shopId = item.ShopId }, new { onclick = "return ConfirmationDialog()" })
+
+
+
+                </td>
+
+            </tr>
+
+        }
+    </tbody>
+
+</table>
+
+
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script>
+
+    function ConfirmationDialog() {
+        if (confirm("Are you Want to Delete?"))
+            return true;
+        else
+            return false;
+    }
+    
+</script>
